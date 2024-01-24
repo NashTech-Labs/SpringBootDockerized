@@ -20,7 +20,7 @@ This sample demonstrates deploying a [Spring Boot](http://projects.spring.io/spr
 ### Clone source code from git
 
 ```bash
-git clone https://github.com/dstar55/docker-hello-world-spring-boot .
+git clone https://github.com/NashTech-Labs/SpringBootDockerized.git .
 
 ##### Build Docker image
 ```
